@@ -20,6 +20,10 @@ h3 {
 	margin-top: 40px;
 }
 
+.footer {
+	font-weight: bolder;
+}
+
 code {
   font-family: monospace;
   padding: 2px;
